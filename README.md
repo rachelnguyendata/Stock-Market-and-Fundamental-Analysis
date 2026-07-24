@@ -52,9 +52,9 @@ This report analyzes **Segro PLC**, a leading European real estate company speci
 ## Repository Structure
 
 ```
-├── README.md              # Project documentation
-├── analysis.ipynb         # Jupyter notebook — full analysis pipeline
-└── images/                # Charts and visualizations
+├── README.md                 # Project documentation
+├── analysis.ipynb            # Jupyter notebook — full analysis pipeline
+└── images.md/                # Charts and visualizations
 ```
 
 ## Analysis Workflow
@@ -84,7 +84,7 @@ The notebook (`analysis.ipynb`) covers the full pipeline:
 
 **Correlation Matrix** — Segro's strong link to peers, weak link to FTSE
 
-![Correlation Matrix](images.md/correlation_FTSE.png)
+![Correlation Matrix](images.md/Correlation_FTSE.png)
 
 ## Key Results
 
@@ -153,7 +153,7 @@ The notebook (`analysis.ipynb`) covers the full pipeline:
    jupyter notebook analysis.ipynb
    ```
 3. Run all cells to extract data, generate charts, and reproduce the analysis
-4. Generated charts are saved to the `images/` folder
+4. Generated charts are saved to the `images.md/` folder
 
 ## Limitations & Considerations
 
