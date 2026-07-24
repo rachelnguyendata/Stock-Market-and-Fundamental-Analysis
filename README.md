@@ -4,7 +4,7 @@ A comprehensive financial analysis report examining Segro PLC's stock performanc
 
 ## Project Overview
 
-This report analyzes **Segro PLC**, a leading European real estate company specializing in warehouse and logistics properties, over a 26-month period (January 2022 – February 2024). The analysis compares Segro with two competitors and the broader UK market to identify price trends, volatility patterns, and fundamental drivers of stock performance.
+This report examines the​ stock market analysis and fundamental analysis of Segro, a company specialising in warehouse and logistics properties, from January 2022 to February 2024. It compares Segro with two similar companies, ​Land Securities Group and British Land and​ uses the FTSE 100 ​index as​ the benchmark for the overall market to identify price trends, volatility patterns, and fundamental drivers of stock performance.
 
 ### Key Findings
 
