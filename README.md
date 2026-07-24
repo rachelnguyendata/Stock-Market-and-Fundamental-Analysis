@@ -1,4 +1,4 @@
-# Stock Market and Fundamental Analysis: Segro PLC (2022-2024)
+# Stock Market and Fundamental Analysis
 
 A comprehensive financial analysis report examining Segro PLC's stock performance and fundamental metrics compared to industry peers, utilizing Python for data extraction and Excel for financial analysis.
 
