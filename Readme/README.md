@@ -70,23 +70,21 @@ The notebook (`analysis.ipynb`) covers the full pipeline:
 
 ## Visualizations
 
-> Update the filenames below to match the images in your `images/` folder.
-
 **Normalized Price Trend** — Segro's deeper relative decline vs peers and the FTSE 100
 
-![Normalized Price Trend](images/normalized_price_trend.png)
+![Normalized Price Trend](images.md/normalized_price.png)
 
 **Moving Average (Segro)** — golden/death cross signals
 
-![Moving Average Segro](images/moving_average_segro.png)
+![Moving Average Segro](images.md/Moving_average_SGRO.L.png)
 
 **Forecasting Analysis (Segro)** — SES vs DES vs TES against actual prices
 
-![Forecasting Segro](images/forecasting_segro.png)
+![Forecasting Segro](images.md/Forecasting_SGRO.L.png)
 
 **Correlation Matrix** — Segro's strong link to peers, weak link to FTSE
 
-![Correlation Matrix](images/correlation_matrix.png)
+![Correlation Matrix](images.md/correlation_FTSE.png)
 
 ## Key Results
 
